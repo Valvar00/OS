@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1551544123 source:c:\c++\1st_3rd_software_engeniring\3rd.cpp
+	<iostream>
+
+1559157682 source:c:\software engenering\1st_3rd_software_engeniring\3rd.cpp
+	<iostream>
+	<cassert>
+
